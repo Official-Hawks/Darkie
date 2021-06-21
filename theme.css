@@ -27,3 +27,19 @@
     color: #fff;
     background: rgba(114, 137, 218, 0.80);
 }
+/* width */
+::-webkit-scrollbar {
+width: 2px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+background: grey;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: grey;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: grey;
+}
